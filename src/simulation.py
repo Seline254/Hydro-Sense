@@ -49,7 +49,7 @@ def euler_soil_moisture(S0: float,
     rainfall      : array of daily rainfall (mm → rescaled to %)
     ET            : array of daily evapotranspiration
     irrigation    : array of daily irrigation applied
-    drainage_coef : zone-specific drainage coefficient
+    drainage_coef : zone-specgit pull origin mainific drainage coefficient
     field_capacity: zone field capacity (%)
     n_days        : number of simulation days
 
